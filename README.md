@@ -12,4 +12,4 @@ The repository has no top-level build. `cmake/mujoco.cmake` is included from a C
 
 ## Licence
 
-The repository does not state a licence for its own code. The vendored MuJoCo source carries its own Apache-2.0 licence.
+MIT. See [LICENSE](LICENSE). The vendored MuJoCo source carries its own Apache-2.0 licence.
